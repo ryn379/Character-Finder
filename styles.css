@@ -185,10 +185,10 @@ body{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    gap: 70%;
 }
 .heading-card h2{
-    font-size: 2vw;
+    font-size: 2.5vw;
+    width: 50vw;
 }
 .heading-card button{
     width: 2vw;
@@ -256,23 +256,27 @@ body{
     gap: 2vw;
 }
 .special,.uni,.type{
-    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
     width: 25vw;
 }
 .special-p{
     color: #facc15;
-    font-size:1.2vw;
+    font-size:1.5vw;
+    margin-bottom: 0.2vw;
 }
 .type-p{
     color: #22c55e;
-    font-size:1.2vw;
+    font-size:1.5vw;
+    margin-bottom: 0.2vw;
 }
 .uni-p{
     color: #ef4444;
-    font-size: 1.2vw;
+    font-size: 1.5vw;
+    margin-bottom: 0.2vw;
 }
 .inner-text{
-    font-size: 1.2vw;
+    font-size: 1.5vw;
+    font-family: "Electrolize", sans-serif;
 }
 .red    { background: #ef4444; }
 .yellow { background: #facc15; }
@@ -331,6 +335,7 @@ body{
     }
     .heading-card h2{
         font-size: 8vw;
+        width: 70vw;
     }
     .stats h2{
         font-size: 4vw;
@@ -344,7 +349,6 @@ body{
         height: 25vw;
     }
     .heading-card{
-        gap: 35%;
         height: 12vh;
     }
     .heading-card button{
@@ -371,7 +375,10 @@ body{
     }
     .inner-text{
         margin-bottom: 3.5vw;
-        font-size: 3vw;
+        font-size: 4vw;
+    }
+    .img-stats{
+        margin-top: 10vw;
     }
     #credit{
         margin-top: 20vh;

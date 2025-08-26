@@ -71,7 +71,14 @@ function search(){
 document.querySelector('#increase').addEventListener('click',
     ()=>{
         const val=document.querySelector('#search-input').value;
-        document.querySelector('#search-input').value=Number(val)+Number(1);
+        const found = list.find(item => (item.name.toLowerCase() === val));
+        if(isNaN(val)){
+            document.querySelector('#search-input').value=Number(found.id)+Number(1);
+        }
+        else{
+            document.querySelector('#search-input').value=Number(val)+Number(1);
+        }
+        
     }
 );
 document.querySelector('#decrease').addEventListener('click',
@@ -79,6 +86,10 @@ document.querySelector('#decrease').addEventListener('click',
         const val=document.querySelector('#search-input').value;
         if(val<1){
             document.querySelector('#search-input').value=0;
+        }
+        else if(isNaN(val)){
+            const found = list.find(item => (item.name.toLowerCase() === val));
+            document.querySelector('#search-input').value=Number(found.id)-Number(1);
         }
         else{
             document.querySelector('#search-input').value=Number(val)-Number(1);
