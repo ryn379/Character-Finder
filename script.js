@@ -13,7 +13,7 @@ export const list=[
         specialAttack:100,
         special:"Homelander Eyes",
         speed:120,
-        image: "/images/sueprman.jpeg",
+        image: "images/sueprman.jpeg",
         uni:"DC"
     },
     {
@@ -28,7 +28,7 @@ export const list=[
         specialAttack: 90,
         special: "peter-tingle",
         speed:99,
-        image: "/images/spiderman.jpeg",
+        image: "images/spiderman.jpeg",
         uni:"MARVEL"
     },
     {
@@ -43,7 +43,7 @@ export const list=[
         specialAttack: 70,
         special: "healing bub",
         speed:90,
-        image: "/images/wolverine.jpeg",
+        image: "images/wolverine.jpeg",
         uni:"MARVEL"
     },
     {
@@ -58,7 +58,7 @@ export const list=[
         specialAttack: 120,
         special: "god of hammers",
         speed:80,
-        image: "/images/thor.jpeg",
+        image: "images/thor.jpeg",
         uni:"MARVEL"
     },
     {
@@ -73,7 +73,7 @@ export const list=[
         specialAttack: 110,
         special: "genius, Billionare, Playboy,Philanthropist",
         speed:100,
-        image: "/images/ironmab.jpeg",
+        image: "images/ironmab.jpeg",
         uni:"MARVEL"
     },
     {
@@ -88,7 +88,7 @@ export const list=[
         specialAttack: 70,
         special: "1900s Racism",
         speed:80,
-        image: "/images/cap.png",
+        image: "images/cap.png",
         uni:"MARVEL"
     },
     {
@@ -103,7 +103,7 @@ export const list=[
         specialAttack: 70,
         special: "Only Woman in Avengers",
         speed:70,
-        image: "/images/bw.jpeg",
+        image: "images/bw.jpeg",
         uni:"MARVEL"
     },
     {
@@ -118,7 +118,7 @@ export const list=[
         specialAttack: 75,
         special: "He's Him",
         speed:50,
-        image: "/images/hwakeye.jpeg",
+        image: "images/hwakeye.jpeg",
         uni:"MARVEL"
     },
     {
@@ -133,7 +133,7 @@ export const list=[
         specialAttack: 85,
         special: "Cap's sidekick",
         speed:100,
-        image: "./images/falcon.png",
+        image: ".images/falcon.png",
         uni:"MARVEL"
     },
     {
@@ -148,7 +148,7 @@ export const list=[
         specialAttack: 80,
         special: "Trauma",
         speed:90,
-        image: "/images/ws.jpeg",
+        image: "images/ws.jpeg",
         uni:"MARVEL"
     },
     {
@@ -163,7 +163,7 @@ export const list=[
         specialAttack: 85,
         special: "Smashing people",
         speed:110,
-        image: "/images/hulk.jpeg",
+        image: "images/hulk.jpeg",
         uni:"MARVEL"
     },
     {
@@ -178,7 +178,7 @@ export const list=[
         specialAttack: 115,
         special: "Help me Brother",
         speed:85,
-        image: "/images/loki.jpeg",
+        image: "images/loki.jpeg",
         uni:"MARVEL"
     },
     {
@@ -193,7 +193,7 @@ export const list=[
         specialAttack: 80,
         special: "I'm Rich",
         speed:99,
-        image: "/images/bm.jpeg",
+        image: "images/bm.jpeg",
         uni:"DC"
     },
     {
@@ -208,7 +208,7 @@ export const list=[
         specialAttack: 95,
         special: "Annoying Batman",
         speed:30,
-        image: "/images/joker.jpeg",
+        image: "images/joker.jpeg",
         uni:"DC"
     },
     {
@@ -223,7 +223,7 @@ export const list=[
         specialAttack: 100,
         special: "Represented by Worst Actor",
         speed:100,
-        image: "/images/ww.jpeg",
+        image: "images/ww.jpeg",
         uni:"DC"
     },
     {
@@ -238,7 +238,7 @@ export const list=[
         specialAttack: 120,
         special: "Depression",
         speed:110,
-        image: "/images/i16.jpeg",
+        image: "images/i16.jpeg",
         uni:"DC"
     },
     {
@@ -253,7 +253,7 @@ export const list=[
         specialAttack: 115,
         special: "Bad looks",
         speed:50,
-        image: "/images/i17.jpeg",
+        image: "images/i17.jpeg",
         uni:"DC"
     },
     {
@@ -268,7 +268,7 @@ export const list=[
         specialAttack: 105,
         special: "Worse than Wally West",
         speed:`∞`,
-        image: "/images/i18.png",
+        image: "images/i18.png",
         uni:"DC"
     },
     {
@@ -283,7 +283,7 @@ export const list=[
         specialAttack: 115,
         special: "Love for Barry allen",
         speed:`∞`,
-        image: "/images/i19.jpeg",
+        image: "images/i19.jpeg",
         uni:"DC"
     },
     {
@@ -298,7 +298,7 @@ export const list=[
         specialAttack: 90,
         special: "A trident with 5 dents",
         speed:90,
-        image: "/images/i20.jpeg",
+        image: "images/i20.jpeg",
         uni:"DC"
     },
     {
@@ -313,7 +313,7 @@ export const list=[
         specialAttack: 70,
         special: "No kill code",
         speed:65,
-        image: "/images/i21.jpeg",
+        image: "images/i21.jpeg",
         uni:"DC"
     },
     {
@@ -328,7 +328,7 @@ export const list=[
         specialAttack: 85,
         special: "Got that dog in him",
         speed:85,
-        image: "/images/i22.jpeg",
+        image: "images/i22.jpeg",
         uni:"MARVEL"
     },
     {
@@ -343,7 +343,7 @@ export const list=[
         specialAttack: 85,
         special: "Green girls",
         speed:60,
-        image: "/images/i23.jpeg",
+        image: "images/i23.jpeg",
         uni:"MARVEL"
     },
     {
@@ -358,7 +358,7 @@ export const list=[
         specialAttack: 80,
         special: "Only Woman in Gaurdians",
         speed:82,
-        image: "/images/i24.jpeg",
+        image: "images/i24.jpeg",
         uni:"MARVEL"
     },
     {
@@ -373,7 +373,7 @@ export const list=[
         specialAttack: 70,
         special: "Invisibility",
         speed:0,
-        image: "/images/i25.jpeg",
+        image: "images/i25.jpeg",
         uni:"MARVEL"
     },
     {
@@ -388,7 +388,7 @@ export const list=[
         specialAttack: 95,
         special: "Bucky's Arm",
         speed:50,
-        image: "/images/i26.jpeg",
+        image: "images/i26.jpeg",
         uni:"MARVEL"
     },
     {
@@ -403,7 +403,7 @@ export const list=[
         specialAttack: 85,
         special: "I Am Groot",
         speed:30,
-        image: "/images/i27.jpeg",
+        image: "images/i27.jpeg",
         uni:"MARVEL"
     },
     {
@@ -418,7 +418,7 @@ export const list=[
         specialAttack: 95,
         special: "2nd Comic relief Character",
         speed:10,
-        image: "/images/i28.jpeg",
+        image: "images/i28.jpeg",
         uni:"MARVEL"
     },
     {
@@ -433,7 +433,7 @@ export const list=[
         specialAttack: 85,
         special: "Thanos picked Nice eyes",
         speed:70,
-        image: "/images/i29.jpeg",
+        image: "images/i29.jpeg",
         uni:"MARVEL"
     },
     {
@@ -448,7 +448,7 @@ export const list=[
         specialAttack: 130,
         special: "Fine, he'll do it by Himself",
         speed:95,
-        image: "/images/i30.jpeg",
+        image: "images/i30.jpeg",
         uni:"MARVEL"
     },
     {
@@ -463,7 +463,7 @@ export const list=[
         specialAttack: 85,
         special: "You're Probably Thinking why I didn't break the 4th wall",
         speed:90,
-        image: "/images/i31.jpeg",
+        image: "images/i31.jpeg",
         uni:"MARVEL"
     },
     {
@@ -478,7 +478,7 @@ export const list=[
         specialAttack: 120,
         special: "Non Working legs",
         speed:5,
-        image: "/images/i32.jpg",
+        image: "images/i32.jpg",
         uni:"MARVEL"
     },
     {
@@ -493,7 +493,7 @@ export const list=[
         specialAttack: 125,
         special: "Kill Them Humans",
         speed:40,
-        image: "/images/i33.jpeg",
+        image: "images/i33.jpeg",
         uni:"MARVEL"
     },
     {
@@ -508,7 +508,7 @@ export const list=[
         specialAttack: 90,
         special: "Ugliness",
         speed:50,
-        image: "/images/i34.jpeg",
+        image: "images/i34.jpeg",
         uni:"MARVEL"
     },
     {
@@ -523,7 +523,7 @@ export const list=[
         specialAttack: 120,
         special: "Thor but Not Thor",
         speed:70,
-        image: "/images/i35.jpeg",
+        image: "images/i35.jpeg",
         uni:"MARVEL"
     },
     {
@@ -538,7 +538,7 @@ export const list=[
         specialAttack: 110,
         special: "Third Wheel of jean and Wolverine",
         speed:40,
-        image: "/images/i36.jpeg",
+        image: "images/i36.jpeg",
         uni:"MARVEL"
     },
     {
@@ -553,7 +553,7 @@ export const list=[
         specialAttack: 120,
         special: "Split Personality",
         speed:80,
-        image: "/images/i37.jpeg",
+        image: "images/i37.jpeg",
         uni:"MARVEL"
     },
     {
@@ -568,7 +568,7 @@ export const list=[
         specialAttack: 95,
         special: "Nerd",
         speed:60,
-        image: "/images/i38.jpeg",
+        image: "images/i38.jpeg",
         uni:"MARVEL"
     },
     {
@@ -583,7 +583,7 @@ export const list=[
         specialAttack: 85,
         special: "Teleport but of no use",
         speed:`∞`,
-        image: "/images/i39.jpeg",
+        image: "images/i39.jpeg",
         uni:"MARVEL"
     },
     {
@@ -598,7 +598,7 @@ export const list=[
         specialAttack: 75,
         special: "Russian accent",
         speed:75,
-        image: "/images/i40.jpeg",
+        image: "images/i40.jpeg",
         uni:"MARVEL"
     },
     {
@@ -613,7 +613,7 @@ export const list=[
         specialAttack: 150,
         special: "Childhood Trauma",
         speed:110,
-        image: "/images/i41.jpeg",
+        image: "images/i41.jpeg",
         uni:"MARVEL"
     },
     {
@@ -628,7 +628,7 @@ export const list=[
         specialAttack: 140,
         special: "Stealing Children",
         speed:60,
-        image: "/images/i42.jpeg",
+        image: "images/i42.jpeg",
         uni:"MARVEL"
     },
     {
@@ -643,7 +643,7 @@ export const list=[
         specialAttack: 100,
         special: "Laughing on Spiderman",
         speed:105,
-        image: "/images/i43.jpeg",
+        image: "images/i43.jpeg",
         uni:"MARVEL"
     },
     {
@@ -658,7 +658,7 @@ export const list=[
         specialAttack: 100,
         special: "Power of Sun in the Palm of his Hands",
         speed:98,
-        image: "/images/i44.jpeg",
+        image: "images/i44.jpeg",
         uni:"MARVEL"
     },
     {
@@ -673,7 +673,7 @@ export const list=[
         specialAttack: 110,
         special: "Singing Happy Birthday",
         speed:105,
-        image: "/images/i45.jpeg",
+        image: "images/i45.jpeg",
         uni:"MARVEL"
     },
     {
@@ -688,7 +688,7 @@ export const list=[
         specialAttack: 75,
         special: "With Great Power comes Great Gun shootings",
         speed:90,
-        image: "/images/i46.jpeg",
+        image: "images/i46.jpeg",
         uni:"MARVEL"
     },
     {
@@ -703,7 +703,7 @@ export const list=[
         specialAttack: 85,
         special: "Short term Memory Loss",
         speed:105,
-        image: "/images/i47.jpeg",
+        image: "images/i47.jpeg",
         uni:"MARVEL"
     },
     {
@@ -718,7 +718,7 @@ export const list=[
         specialAttack: 105,
         special: "Fish Bowl for a head",
         speed:105,
-        image: "/images/i48.jpeg",
+        image: "images/i48.jpeg",
         uni:"MARVEL"
     },
     {
@@ -733,7 +733,7 @@ export const list=[
         specialAttack: 80,
         special: "Never hunting a Shower",
         speed:85,
-        image: "/images/i49.jpeg",
+        image: "images/i49.jpeg",
         uni:"MARVEL"
     },
     {
@@ -748,7 +748,7 @@ export const list=[
         specialAttack: 95,
         special: "Nerd",
         speed:100,
-        image: "/images/i50.jpeg",
+        image: "images/i50.jpeg",
         uni:"MARVEL"
     },
     {
@@ -763,7 +763,7 @@ export const list=[
         specialAttack: 100,
         special: "Nose Bleeds Everytime Uses Powers",
         speed:79,
-        image: "/images/i51.jpeg",
+        image: "images/i51.jpeg",
         uni:"MARVEL"
     },
     {
@@ -778,7 +778,7 @@ export const list=[
         specialAttack: 110,
         special: "Flame on",
         speed:105,
-        image: "/images/i52.jpeg",
+        image: "images/i52.jpeg",
         uni:"MARVEL"
     },
     {
@@ -793,7 +793,7 @@ export const list=[
         specialAttack: 70,
         special: "It's Clobberin Time",
         speed:60,
-        image: "/images/i53.jpeg",
+        image: "images/i53.jpeg",
         uni:"MARVEL"
     },
     {
@@ -808,7 +808,7 @@ export const list=[
         specialAttack: 115,
         special: "He is Better than you",
         speed:100,
-        image: "/images/i54.jpeg",
+        image: "images/i54.jpeg",
         uni:"MARVEL"
     },
     {
@@ -823,7 +823,7 @@ export const list=[
         specialAttack: 550,
         special: "Getting Defeated by Teleportation",
         speed:200,
-        image: "/images/i55.jpeg",
+        image: "images/i55.jpeg",
         uni:"MARVEL"
     },
     {
@@ -838,7 +838,7 @@ export const list=[
         specialAttack: 80,
         special: "Shower once a year",
         speed:30,
-        image: "/images/i56.jpeg",
+        image: "images/i56.jpeg",
         uni:"MARVEL"
     },
     {
@@ -853,7 +853,7 @@ export const list=[
         specialAttack: 200,
         special: "Unjust Judgement",
         speed:`∞`,
-        image: "/images/i57.jpeg",
+        image: "images/i57.jpeg",
         uni:"MARVEL"
     },
     {
@@ -868,7 +868,7 @@ export const list=[
         specialAttack: 1000,
         special: "Reality can be Whatever he wants",
         speed:`∞`,
-        image: "/images/i58.jpeg",
+        image: "images/i58.jpeg",
         uni:"MARVEL"
     },
     {
@@ -883,7 +883,7 @@ export const list=[
         specialAttack: 80,
         special: "Cheat Master",
         speed:100,
-        image: "/images/i59.jpeg",
+        image: "images/i59.jpeg",
         uni:"MARVEL"
     },
     {
@@ -898,7 +898,7 @@ export const list=[
         specialAttack: 105,
         special: "Bro's Name",
         speed:90,
-        image: "/images/i60.jpeg",
+        image: "images/i60.jpeg",
         uni:"DC"
     },
     {
@@ -913,7 +913,7 @@ export const list=[
         specialAttack: 120,
         special: "Feminist Woman that judges you",
         speed:105,
-        image: "/images/i61.jpeg",
+        image: "images/i61.jpeg",
         uni:"MARVEL"
     },
     {
@@ -928,7 +928,7 @@ export const list=[
         specialAttack: 75,
         special: "Saul goodman of marvel",
         speed:75,
-        image: "/images/i62.jpeg",
+        image: "images/i62.jpeg",
         uni:"MARVEL"
     },
     {
@@ -943,7 +943,7 @@ export const list=[
         specialAttack: 90,
         special: "Heads, livers, Cannibalism",
         speed:99,
-        image: "/images/i63.jpeg",
+        image: "images/i63.jpeg",
         uni:"MARVEL"
     },
     {
@@ -958,7 +958,7 @@ export const list=[
         specialAttack: 100,
         special: "Pet Debbie",
         speed:120,
-        image: "/images/i64.jpeg",
+        image: "images/i64.jpeg",
         uni:"INVINCIBLE"
     },
     {
@@ -973,7 +973,7 @@ export const list=[
         specialAttack: 130,
         special: "evil witch things",
         speed:100,
-        image: "/images/i65.jpeg",
+        image: "images/i65.jpeg",
         uni:"MARVEL"
     },
     {
@@ -988,7 +988,7 @@ export const list=[
         specialAttack: 95,
         special: "He Ain't see that",
         speed:`∞`,
-        image: "/images/i66.jpeg",
+        image: "images/i66.jpeg",
         uni:"MARVEL/DC"
     },
     {
@@ -1003,7 +1003,7 @@ export const list=[
         specialAttack: 130,
         special: "His name is Strange",
         speed:90,
-        image: "/images/i67.jpeg",
+        image: "images/i67.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1018,7 +1018,7 @@ export const list=[
         specialAttack: 85,
         special: "Played by Chadwick Boseman",
         speed:85,
-        image: "/images/i68.jpeg",
+        image: "images/i68.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1033,7 +1033,7 @@ export const list=[
         specialAttack: 115,
         special: "Robot rizz",
         speed:105,
-        image: "/images/i69.jpeg",
+        image: "images/i69.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1048,7 +1048,7 @@ export const list=[
         specialAttack: 85,
         special: "Split personality final boss",
         speed:99,
-        image: "/images/i70.jpeg",
+        image: "images/i70.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1063,7 +1063,7 @@ export const list=[
         specialAttack: 95,
         special: "Aquaman but with ants",
         speed:65,
-        image: "/images/i71.jpeg",
+        image: "images/i71.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1078,7 +1078,7 @@ export const list=[
         specialAttack: 110,
         special: "Hate for Superman",
         speed:30,
-        image: "/images/i72.jpeg",
+        image: "images/i72.jpeg",
         uni:"DC"
     },
     {
@@ -1093,7 +1093,7 @@ export const list=[
         specialAttack: 170,
         special: "Wrong Speller",
         speed:120,
-        image: "/images/i73.jpeg",
+        image: "images/i73.jpeg",
         uni:"DC"
     },
     {
@@ -1108,7 +1108,7 @@ export const list=[
         specialAttack: 85,
         special: "I can Fix Her",
         speed:20,
-        image: "/images/i74.jpeg",
+        image: "images/i74.jpeg",
         uni:"DC"
     },
     {
@@ -1123,7 +1123,7 @@ export const list=[
         specialAttack: 70,
         special: "Hannibal lecter Mask",
         speed:70,
-        image: "/images/i75.jpeg",
+        image: "images/i75.jpeg",
         uni:"DC"
     },
     {
@@ -1138,7 +1138,7 @@ export const list=[
         specialAttack: 110,
         special: "Awkwardness",
         speed:5,
-        image: "/images/i76.jpeg",
+        image: "images/i76.jpeg",
         uni:"DC"
     },
     {
@@ -1153,7 +1153,7 @@ export const list=[
         specialAttack: 95,
         special: "Can't fly",
         speed:80,
-        image: "/images/i77.jpeg",
+        image: "images/i77.jpeg",
         uni:"DC"
     },
     {
@@ -1168,7 +1168,7 @@ export const list=[
         specialAttack: 90,
         special: "Heads dead tails bread",
         speed:55,
-        image: "/images/i78.jpeg",
+        image: "images/i78.jpeg",
         uni:"DC"
     },
     {
@@ -1183,7 +1183,7 @@ export const list=[
         specialAttack: 115,
         special: "Hides face with a sac",
         speed:55,
-        image: "/images/i79.jpeg",
+        image: "images/i79.jpeg",
         uni:"DC"
     },
     {
@@ -1198,7 +1198,7 @@ export const list=[
         specialAttack: 115,
         special: "star lord's type",
         speed:75,
-        image: "/images/i80.jpeg",
+        image: "images/i80.jpeg",
         uni:"DC"
     },
     {
@@ -1213,7 +1213,7 @@ export const list=[
         specialAttack: 110,
         special: "Freezing Trauma",
         speed:45,
-        image: "/images/i81.jpeg",
+        image: "images/i81.jpeg",
         uni:"DC"
     },
     {
@@ -1228,7 +1228,7 @@ export const list=[
         specialAttack: 90,
         special: "Luck is no power",
         speed:85,
-        image: "/images/i82.jpeg",
+        image: "images/i82.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1243,7 +1243,7 @@ export const list=[
         specialAttack: 80,
         special: "Woman Abilities",
         speed:95,
-        image: "/images/i83.jpeg",
+        image: "images/i83.jpeg",
         uni:"DC"
     },
     {
@@ -1258,7 +1258,7 @@ export const list=[
         specialAttack: 100,
         special: "Destroying Universes",
         speed:100,
-        image: "/images/i84.jpeg",
+        image: "images/i84.jpeg",
         uni:"DC"
     },
     {
@@ -1273,7 +1273,7 @@ export const list=[
         specialAttack: 125,
         special: "Kneel",
         speed:100,
-        image: "/images/i85.jpeg",
+        image: "images/i85.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1288,7 +1288,7 @@ export const list=[
         specialAttack: 130,
         special: "Heralding Galactus",
         speed:150,
-        image: "/images/i86.jpeg",
+        image: "images/i86.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1303,7 +1303,7 @@ export const list=[
         specialAttack: 140,
         special: "Earth Lover",
         speed:`∞`,
-        image: "/images/i87.jpeg",
+        image: "images/i87.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1318,7 +1318,7 @@ export const list=[
         specialAttack: 135,
         special: "pregnancy",
         speed:`∞`,
-        image: "/images/i88.jpeg",
+        image: "images/i88.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1333,7 +1333,7 @@ export const list=[
         specialAttack: 95,
         special: "Eve",
         speed:120,
-        image: "/images/i89.jpeg",
+        image: "images/i89.jpeg",
         uni:"INVINCIBLE"
     },
     {
@@ -1348,7 +1348,7 @@ export const list=[
         specialAttack: 110,
         special: "Say Something Dumb",
         speed:102,
-        image: "/images/i90.jpeg",
+        image: "images/i90.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1363,7 +1363,7 @@ export const list=[
         specialAttack: 105,
         special: "Lover from Another World",
         speed:100,
-        image: "/images/i91.jpeg",
+        image: "images/i91.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1378,7 +1378,7 @@ export const list=[
         specialAttack: 100,
         special: "Rebellious",
         speed:90,
-        image: "/images/i92.jpeg",
+        image: "images/i92.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1393,7 +1393,7 @@ export const list=[
         specialAttack: 110,
         special: "Spiderman with least Spider Powers",
         speed:105,
-        image: "/images/i93.jpeg",
+        image: "images/i93.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1408,7 +1408,7 @@ export const list=[
         specialAttack: 95,
         special: "Rubicks Cube",
         speed:99,
-        image: "/images/i94.jpeg",
+        image: "images/i94.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1423,7 +1423,7 @@ export const list=[
         specialAttack: 100,
         special: "Spider Bitten By a Radioactive Pig",
         speed:90,
-        image: "/images/i95.jpeg",
+        image: "images/i95.jpeg",
         uni:"SPIDER VERSE"
     },
     {
@@ -1438,7 +1438,7 @@ export const list=[
         specialAttack: 110,
         special: "who the hell has fear of Yellow",
         speed:105,
-        image: "/images/i96.jpeg"
+        image: "images/i96.jpeg"
     },
     {
         name: "Black Adam",
@@ -1452,7 +1452,7 @@ export const list=[
         specialAttack: 90,
         special: "can't lose due to The Rock",
         speed:105,
-        image: "/images/i97.jpeg"
+        image: "images/i97.jpeg"
     },
     {
         name: "Adam Warlock",
@@ -1466,7 +1466,7 @@ export const list=[
         specialAttack: 120,
         special: "Dumb kid in Adult Form",
         speed:110,
-        image: "/images/i98.jpeg",
+        image: "images/i98.jpeg",
         uni:"MARVEL"
     },
     {
@@ -1481,7 +1481,7 @@ export const list=[
         specialAttack: 70,
         special: "Dead wife which hates you",
         speed:80,
-        image: "/images/i99.jpeg",
+        image: "images/i99.jpeg",
         uni:"SPIDER VERSE/MARVEL"
     },
     {
@@ -1496,7 +1496,7 @@ export const list=[
         specialAttack: "∞",
         special: "Cameos",
         speed:`∞`,
-        image: "/images/stan.jpeg",
+        image: "images/stan.jpeg",
         uni:"EARTH"
     }
 ];
