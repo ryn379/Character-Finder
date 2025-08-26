@@ -17,7 +17,7 @@ export const list=[
         uni:"DC"
     },
     {
-        name: "Spider Man",
+        name: "Spiderman",
         id: 2,
         weight: 76, 
         height: `5'10”`,
@@ -1382,7 +1382,7 @@ export const list=[
         uni:"SPIDER VERSE"
     },
     {
-        name: "Spider Man 2099",
+        name: "Spiderman 2099",
         id: 93,
         weight: 170,
         height: `5'10”`,
@@ -1412,7 +1412,7 @@ export const list=[
         uni:"SPIDER VERSE"
     },
     {
-        name: "Spider-Ham",
+        name: "Spider Ham",
         id: 95,
         weight: 55,
         height: `3'6”`,

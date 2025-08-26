@@ -342,7 +342,7 @@ body{
     }
     .card{
         width: 75vw;
-        height: 55vh;
+        height: auto;
     }
     .img-stats img{
         width: 25vw;
