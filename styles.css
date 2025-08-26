@@ -279,6 +279,14 @@ body{
 .blue   { background: #3b82f6; }
 .green  { background: #22c55e; }
 
+#credit{
+    font-size: 3vw;
+    margin-top: 13vw;
+    color: rgb(235, 104, 104);
+    font-family: "Caveat", cursive;
+}
+
+
 @media (max-width:1024px){
     #heading{
         width: 100vw;
@@ -286,9 +294,10 @@ body{
     }
     #heading h1{
         font-size: 10vw;
+        margin-left: 3vw;
     }
     #container{
-        width: 70vw;
+        width: 80vw;
         margin-top: 10vw;
     }
     #inputs{
@@ -363,5 +372,9 @@ body{
     .inner-text{
         margin-bottom: 3.5vw;
         font-size: 3vw;
+    }
+    #credit{
+        margin-top: 20vh;
+        font-size: 5.5vw;
     }
 }
