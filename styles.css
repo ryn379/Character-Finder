@@ -208,6 +208,8 @@ body{
 .img-stats img{
     width: 15vw;
     height: 15vw;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(0, 85, 255), 0 0 40px rgb(0, 85, 255), 0 0 60px rgb(0, 85, 255);
 }
 .stats{
     display: flex;
