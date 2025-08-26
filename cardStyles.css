@@ -1,0 +1,111 @@
+
+#card {
+    width: 50vw;
+    height: 40vw;
+    border: 2px solid black;
+    background-color: rgb(14, 27, 55);
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+    padding: 3vw;
+    color: rgb(34 211 238);
+    font-family: "Orbitron", sans-serif;
+}
+#heading{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40%;
+}
+#heading h2{
+    font-size: 2vw;
+}
+#heading button{
+    width: 2vw;
+    height: 2vw;
+    font-size: 2vw;
+    background-color: inherit;
+    border: none;
+    color: aqua;
+}
+#img-stats{
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20%;
+}
+#img-stats img{
+    width: 15vw;
+    height: 15vw;
+}
+#stats{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: rgb(250 204 21);
+    width: 15vw;
+    height: 15vw;
+    margin-top: 5vw;
+    gap: 1vw;
+}
+.stat {
+    width: 35vw;        
+    margin-bottom: 2vw;   
+}
+
+.stat span {
+    display: inline-block;
+    width: 25vw;         
+    font-size: 1.5vw;     
+}
+
+.stat span:last-child {
+    text-align: right;
+}
+
+.bar {
+    background: #2a3245;
+    border-radius: 1vw;
+    overflow: hidden;
+    height: 0.5vw;      
+    margin-top: 0.5vw;
+    width: 20vw;
+}
+
+.fill {
+    height: 100%;
+    border-radius: 1vw;
+}
+.stat-no{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12vw;
+    gap: 2vw;
+}
+#special,#uni,#type{
+    margin-top: 1.5vw;
+    width: 25vw;
+}
+#special-p{
+    color: #facc15;
+    font-size:1.2vw;
+}
+#type-p{
+    color: #22c55e;
+    font-size:1.2vw;
+}
+#uni-p{
+    color: #ef4444;
+    font-size: 1.2vw;
+}
+.red    { background: #ef4444; }
+.yellow { background: #facc15; }
+.blue   { background: #3b82f6; }
+.green  { background: #22c55e; }
