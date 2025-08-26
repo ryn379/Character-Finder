@@ -133,7 +133,7 @@ export const list=[
         specialAttack: 85,
         special: "Cap's sidekick",
         speed:100,
-        image: ".images/falcon.png",
+        image: "images/falcon.png",
         uni:"MARVEL"
     },
     {
