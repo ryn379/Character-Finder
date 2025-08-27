@@ -72,9 +72,9 @@ document.querySelector('#increase').addEventListener('click',
     ()=>{
         const val=document.querySelector('#search-input').value;
         const found = list.find(item => (item.name.toLowerCase() === val));
-        if(isNaN(val)){
-            document.querySelector('#search-input').value=Number(found.id)+Number(1);
-        }
+        if(found){
+                document.querySelector('#search-input').value=Number(found.id)+Number(1);
+            }
         else{
             document.querySelector('#search-input').value=Number(val)+Number(1);
         }
@@ -89,7 +89,9 @@ document.querySelector('#decrease').addEventListener('click',
         }
         else if(isNaN(val)){
             const found = list.find(item => (item.name.toLowerCase() === val));
-            document.querySelector('#search-input').value=Number(found.id)-Number(1);
+            if(found){
+                document.querySelector('#search-input').value=Number(found.id)-Number(1);
+            }
         }
         else{
             document.querySelector('#search-input').value=Number(val)-Number(1);
